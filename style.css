@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fff8f0;
+  color: #333;
+}
+
+header {
+  background-color: #d62828;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+main {
+  padding: 20px;
+}
+
+.cardapio {
+  max-width: 600px;
+  margin: auto;
+}
+
+.cardapio h2 {
+  text-align: center;
+  color: #d62828;
+}
+
+.pizza {
+  background-color: #ffe5b4;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.pizza h3 {
+  margin-top: 0;
+}
+
+.pizza span {
+  font-weight: bold;
+  color: #d62828;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+}
